@@ -10,7 +10,8 @@ import {
     Grid,
     Image,
     Form,
-    Card
+    Card,
+    // Placeholder
 } from "semantic-ui-react";
 import {Link, Redirect} from 'react-router-dom'
 import Vaultbar from './components/Vaultbar';
